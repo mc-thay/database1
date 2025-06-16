@@ -1,5 +1,5 @@
-create database bd_collaborax;
-use bd_collaborax;
+create database bdprueba;
+use bdprueba;
 
 create table archivos (
   id INT PRIMARY KEY AUTO_INCREMENT,
